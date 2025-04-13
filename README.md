@@ -30,8 +30,8 @@ Learning-JS/
 │   ├── Lesson-1/
 │   │   ├── index.html
 │   │   └── script.js
-		└── README.md
-		└── favicon.ico
+	└── README.md
+	└── favicon.ico
 │   └── ...
 ├── week-2/
 │   └── ...
