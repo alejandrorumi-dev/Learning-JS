@@ -10,13 +10,14 @@ Usados para operaciones matemáticas:
 
 ```
 
-Operador	Descripción	Ejemplo
-+	Suma	5 + 2
--	Resta	5 - 2
-*	Multiplicación	5 * 2
-/	División	5 / 2
-%	Módulo (resto)	5 % 2
-**	Exponente	5 ** 2
+Operador	Descripción		Ejemplo
+
++			Suma			5 + 2
+-			Resta			5 - 2
+*			Multiplicación	5 * 2
+/			División		5 / 2
+%			Módulo (resto)	5 % 2
+**			Exponente		5 ** 2
 
 ```
 
@@ -26,12 +27,13 @@ Sirven para asignar valores a variables (y combinarlos con otros operadores):
 
 ```
 
-Operador	Ejemplo	Equivale a
-=	x = 5	Asigna 5 a x
-+=	x += 2	x = x + 2
--=	x -= 2	x = x - 2
-*=	x *= 2	x = x * 2
-/=	x /= 2	x = x / 2
+Operador	Ejemplo		Equivale a
+
+=			x = 5		Asigna 5 a x
++=			x += 2		x = x + 2
+-=			x -= 2		x = x - 2
+*=			x *= 2		x = x * 2
+/=			x /= 2		x = x / 2
 
 ```
 
@@ -41,15 +43,16 @@ Comparan dos valores y devuelven true o false:
 
 ```
 
-Operador	Descripción	Ejemplo
-==	Igual (sin tipo)	5 == "5" ✅
-===	Igual (estricto)	5 === "5" ❌
-!=	Distinto	5 != 3 ✅
-!==	Distinto estricto	5 !== "5" ✅
->	Mayor que	5 > 2 ✅
-<	Menor que	2 < 5 ✅
->=	Mayor o igual que	5 >= 5 ✅
-<=	Menor o igual que	4 <= 5 ✅
+Operador	Descripción			Ejemplo
+
+==			Igual (sin tipo)	5 == "5" ✅
+===			Igual (estricto)	5 === "5" ❌
+!=			Distinto			5 != 3 ✅
+!==			Distinto estricto	5 !== "5" ✅
+>			Mayor que			5 > 2 ✅
+<			Menor que			2 < 5 ✅
+>=			Mayor o igual que	5 >= 5 ✅
+<=			Menor o igual que	4 <= 5 ✅
 
 ```
 
@@ -59,10 +62,11 @@ Se usan para combinar condiciones:
 
 ```
 
-Operador	Nombre	Uso
-&&	AND (y)	cond1 && cond2
-`		`
-!	NOT (no)	!cond1
+Operador	Nombre		Uso
+
+&&			AND (y)		cond1 && cond2
+`						`
+!			NOT (no)	!cond1
 
 ```
 
