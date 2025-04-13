@@ -26,12 +26,14 @@ Este espacio está dedicado a documentar mi progreso diario, incluyendo teoría,
 ```
 Learning-JS/
 │
-├── Semana-1/
-│   ├── Leccion-1/
+├── week-1/
+│   ├── Lesson-1/
 │   │   ├── index.html
 │   │   └── script.js
+		└── README.md
+		└── favicon.ico
 │   └── ...
-├── Semana-2/
+├── week-2/
 │   └── ...
 ├── README.md
 └── ...
