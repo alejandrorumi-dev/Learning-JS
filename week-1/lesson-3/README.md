@@ -12,12 +12,12 @@ Usados para operaciones matemáticas:
 
 Operador	Descripción		Ejemplo
 
-+			Suma			5 + 2
--			Resta			5 - 2
-*			Multiplicación	5 * 2
-/			División		5 / 2
-%			Módulo (resto)	5 % 2
-**			Exponente		5 ** 2
++	Suma			5 + 2
+-	Resta			5 - 2
+*	Multiplicación	5 * 2
+/	División		5 / 2
+%	Módulo (resto)	5 % 2
+**	Exponente		5 ** 2
 
 ```
 
