@@ -70,6 +70,66 @@ Operador	Nombre		Uso
 
 ```
 
+**&& (AND)**
+
+- El operador && devuelve true solo si ambas condiciones son true. Si alguna es false, el resultado será false.
+
+```
+
+let a = true;
+let b = false;
+console.log(a && b);
+
+```
+
+- true && true es true.
+
+- true && false es false.
+
+- false && true es false.
+
+- false && false es false.
+
+**|| (OR)**
+
+- El operador || devuelve true si al menos una de las condiciones es true. Si ambas son false, el resultado será false.
+
+```
+
+let a = true;
+let b = false;
+console.log(a || b);
+
+```
+
+- true || true es true.
+
+- true || false es true.
+
+- false || true es true.
+
+- false || false es false.
+
+**| (NOT)**
+
+- El operador ! invierte el valor lógico de la condición:
+
+	* Si el valor es true, lo convierte en false.
+
+	* Si el valor es false, lo convierte en true.
+
+```
+
+let a = true;
+console.log(!a);
+
+```
+
+- !true es false.
+
+- !false es true.
+
+
 🎯 Objetivo de esta lección:
 
 - Conocer los distintos tipos de operadores.
