@@ -110,7 +110,7 @@ console.log(a || b);
 
 - false || false es false.
 
-**| (NOT)**
+**! (NOT)**
 
 - El operador ! invierte el valor lógico de la condición:
 
