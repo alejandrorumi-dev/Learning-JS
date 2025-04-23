@@ -8,7 +8,7 @@ Crea una función que reciba dos números y devuelva la división entre ellos. A
 
 **Ejercicio 2: Función que llama a otra función**
 
-***Enunciado: ***
+***Enunciado:***
 
 Crea una función impuestoIVA que calcule el 21% de un precio. Luego, crea otra función precioTotal que use impuestoIVA para mostrar el precio con IVA incluido.
 
