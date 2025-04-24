@@ -17,7 +17,7 @@ elemento del array con nombres[2] (eso muestra "Jose").
 Para completar el ejercicio 1, recuerda que te pedía mostrar 
 el primero y el último nombre del array.
 
-** DEBO PRESTAR MÁS ATENCIÓN AL ENUNCIADO **
+** DEBO PRESTAR MÁS ATENCIÓN AL ENUNCIADO. IMPORTANTE **
 
 🛠️ Sugerencia:
 
