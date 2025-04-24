@@ -54,7 +54,7 @@ Crea una función que reciba una cantidad indefinida de números y devuelva su s
 
 ***
 
-**Ejercicio 8: Función recursiva**
+**Ejercicio 8: Función recursiva** ✅
 
 ***Enunciado:*** 
 
