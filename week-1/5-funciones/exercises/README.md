@@ -70,7 +70,7 @@ Crea una función que reciba una edad y devuelva un mensaje si es válida (mayor
 
 ***
 
-**Ejercicio 10: Función que retorna booleano**
+**Ejercicio 10: Función que retorna booleano** ✅
 
 ***Enunciado:*** 
 
