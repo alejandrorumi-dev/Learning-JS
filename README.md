@@ -17,6 +17,13 @@ Este espacio está dedicado a documentar mi progreso diario, incluyendo teoría,
 - Condicionales y estructuras de control
 - Funciones
 
+## 🔹 Semana 2: Arrays y Estructuras Avanzadas
+- Introducción a los Arrays
+- Métodos de Arrays
+- Iteración sobre Arrays
+- Funciones con Arrays
+- Métodos de Ordenación y Filtrado
+
 (Se irá completando semana a semana)
 
 ---
