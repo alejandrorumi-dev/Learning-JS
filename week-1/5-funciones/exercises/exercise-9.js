@@ -1,5 +1,5 @@
 /*
-Ejercicio 9: unción que valida datos
+Ejercicio 9: Función que valida datos
 
 Enunciado:
 
