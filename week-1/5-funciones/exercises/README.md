@@ -62,7 +62,7 @@ Crea una función recursiva que calcule el factorial de un número.
 
 ***
 
-**Ejercicio 9: unción que valida datos**
+**Ejercicio 9: unción que valida datos** ✅
 
 ***Enunciado:*** 
 
