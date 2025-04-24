@@ -20,5 +20,8 @@ En el ejercicio, como indica el enunciado, se debe modificar el
 tercer nombre, y como en arrays se empieza a contar desde 0, el nombre
 sustituido es "Jose" por "Miguel". 
 
-[0, 1, 2] => ["Alex", "Juan", "Jose"] => ["Alex", "Juan", "Miguel"]
+=> [0, 1, 2] 
+=> ["Alex", "Juan", "Jose"]
+=> nombres[2] = "Miguel"; 
+=> ["Alex", "Juan", "Miguel"]
 */
