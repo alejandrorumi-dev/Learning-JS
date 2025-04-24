@@ -46,7 +46,7 @@ Crea una función multiplicador que reciba un número y devuelva una función qu
 
 ***
 
-**Ejercicio 7: Función con parámetros REST**
+**Ejercicio 7: Función con parámetros REST** ✅
 
 ***Enunciado:*** 
 
