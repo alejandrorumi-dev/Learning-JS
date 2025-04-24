@@ -1,4 +1,4 @@
-**Ejercicio 1: Función clásica con parámetros**
+**Ejercicio 1: Función clásica con parámetros** ✅
 
 ***Enunciado:***
 
@@ -6,7 +6,7 @@ Crea una función que reciba dos números y devuelva la división entre ellos. A
 
 ***
 
-**Ejercicio 2: Función que llama a otra función**
+**Ejercicio 2: Función que llama a otra función** ✅
 
 ***Enunciado:***
 
@@ -14,7 +14,7 @@ Crea una función impuestoIVA que calcule el 21% de un precio. Luego, crea otra 
 
 ***
 
-**Ejercicio 3: Función flecha**
+**Ejercicio 3: Función flecha** ✅
 
 ***Enunciado:***
 
@@ -22,7 +22,7 @@ Crea una función impuestoIVA que calcule el 21% de un precio. Luego, crea otra 
 
  ***
 
-**Ejercicio 4: Función anónima**
+**Ejercicio 4: Función anónima** ✅
 
 ***Enunciado:*** 
 
@@ -30,7 +30,7 @@ Declara una función anónima que calcule el cubo de un número (n^3) y asígnal
 
 ***
 
-**Ejercicio 5: Función con parámetro opcional**
+**Ejercicio 5: Función con parámetro opcional** ✅
 
 ***Enunciado:*** 
 
@@ -38,7 +38,7 @@ Crea una función que reciba un nombre y un saludo (opcional). Si no se proporci
 
 ***
 
-**Ejercicio 6: Función que devuelve otra función**
+**Ejercicio 6: Función que devuelve otra función** ✅
 
 ***Enunciado:*** 
 
