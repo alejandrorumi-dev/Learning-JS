@@ -38,7 +38,7 @@ console.log(frutas.length); // Output: 3
 
 ```
 
-**
+***
 
 ***.push()***
 
@@ -52,7 +52,7 @@ console.log(frutas); // Output: ["manzana", "banana", "naranja"]
 
 ```
 
-**
+***
 
 ***.pop()***
 
@@ -66,7 +66,7 @@ console.log(frutas); // Output: ["manzana", "banana"]
 
 ```
 
-**
+***
 
 ***.shift()***
 
@@ -80,7 +80,7 @@ console.log(frutas); // Output: ["banana", "naranja"]
 
 ```
 
-**
+***
 
 ***.unshift()***
 
@@ -94,7 +94,7 @@ console.log(frutas); // Output: ["naranja", "manzana", "banana"]
 
 ```
 
-**
+***
 
 ***.indexOf()***
 
@@ -107,7 +107,7 @@ console.log(frutas.indexOf("banana")); // Output: 1
 
 ```
 
-**
+***
 
 ***.forEach()***
 
@@ -126,7 +126,7 @@ frutas.forEach(function(fruta) {
 
 ```
 
-**
+***
 
 **4. Arrays Multidimensionales**
 
@@ -158,7 +158,7 @@ for (let i = 0; i < frutas.length; i++) {
 
 ```
 
-**
+***
 
 **Ejemplo con ***forEach***:**
 
