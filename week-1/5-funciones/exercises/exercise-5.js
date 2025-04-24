@@ -21,11 +21,14 @@ Corrección de ChatGPT:
 
 Comentarios:
 
-- Cuando se pasa una cadena vacía ("") para el saludo, 
-debe usarse "Bienvenido" como saludo, y si no se pasa nombre, 
-debe tomar el valor predeterminado de "Invitado".
+- La función está correctamente definida con valores predeterminados.
 
-- La llamada saludar() debería devolver "Hola, Invitado".
+- Cambio importante: Cuando se pasa una cadena vacía, se ha añadido 
+una comprobación explícita en la función para que utilice "Hola" 
+como saludo por defecto si se pasa "" como valor de saludo. Esto 
+asegura que no haya valores vacíos no deseados.
+
+- El código está bien estructurado y es bastante claro.
 
 🛠️ Sugerencia:
 
@@ -44,7 +47,7 @@ function saludar(saludo = "Hola", nombre = "Invitado") {
 	}
 
 	**AQUÍ ESTÁ LA DIFERENCIA**
-	
+
     return `${saludo}, ${nombre}`;
 }
 
