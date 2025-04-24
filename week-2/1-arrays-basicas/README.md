@@ -1,6 +1,6 @@
 **1. ¿Qué es un Array?**
 
-Un array (o arreglo) es una estructura de datos que te permite almacenar varios valores en una sola variable. En lugar de tener que crear múltiples variables para almacenar valores relacionados, puedes agruparlos en un solo array. Los valores dentro de un array se pueden acceder mediante un índice, el cual comienza desde 0 (el primer valor está en el índice 0).
+Un array (o arreglo) es una estructura de datos que te permite almacenar varios valores en una sola variable. En lugar de tener que crear múltiples variables para almacenar valores relacionados, puedes agruparlos en un solo array. Los valores dentro de un array se pueden acceder mediante un índice, el cual comienza desde 0 (el primer valor está en el **índice 0**).
 
 **2. Sintaxis para Crear un Array**
 
