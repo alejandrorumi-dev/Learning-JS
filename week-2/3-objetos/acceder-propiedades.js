@@ -1,6 +1,8 @@
 /*
 🔹 2. ACCEDER A PROPIEDADES
+
 Enunciado:
+
 Muestra por consola el nombre y la edad de la persona usando:
 
 notación punto
