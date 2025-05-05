@@ -1,6 +1,8 @@
 /*
 🔹 1. CREAR OBJETO
+
 Enunciado:
+
 Crea un objeto llamado persona que tenga las 
 siguientes propiedades:
 
